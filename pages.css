@@ -19,7 +19,7 @@ img{
 }
 main{ 
     margin-top: 33px;
-    top: 100px;
+    top: 20%;
     position: absolute;
     left: 50%;
     transform: translate(-50%, -50%);  
@@ -63,4 +63,24 @@ main{
       
         padding-left: 10px;
     }
-   
+    .recaptcha > img{
+        border: 2px solid red;
+     margin-top: 1vw;
+     
+     height: 89px;
+
+    }
+    footer{
+        
+        margin-top: 13px;
+    }
+    .btn>button{
+        color: #ffff;
+        
+        background-color:#0FA47F ;
+        margin-top: 25px;
+        width: 360px;
+        height: 60px;
+        border-radius: 5px;
+    }
+    
