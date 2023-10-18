@@ -7,41 +7,43 @@
     font-family: 'Inter', sans-serif;
 }
 .logo{
+   
     height: 200px;
     
 }
 img{
-    height: 50px;  
+
+    height: 50px; 
+    margin-top: 89px; 
+
 }
-main{
- 
+main{ 
+    margin-top: 33px;
+    top: 100px;
     position: absolute;
-    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);  
 }
+.textifild{
+    margin-top: 24px;
+}
 .about{  
-  
+    
     width: 650px;
     display: flex;
-    flex-direction: column;
-
     align-items: flex-start;
     margin: 40px 10px;
-    margin-left: 310px;
+    justify-content:center;
 }
 .about > p{
-
+    
     padding: 5px;
-
-    margin-left: 7px;
-
     border: 2px solid rgb(255, 255, 255);
     background-color: rgb(255, 255, 255);
     position: absolute;
-    top: 260px;
+    top: 286px;
     height: 7px;
-
+    left: 170px ;
 }
 
 
@@ -61,7 +63,4 @@ main{
       
         padding-left: 10px;
     }
-    .head > script{
-        border: 2px solid red;
-       
-    } 
+   
