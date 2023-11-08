@@ -29,9 +29,6 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
 
 Você pode conferir o design da interface no [link do Figma](https://www.figma.com/community/file/1195654789451470584/chatgpt-user-interface) para ter uma visão detalhada de como o projeto se parece.
 
-## Preview
-
-
 
 ## Deploy
 
